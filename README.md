@@ -1,211 +1,141 @@
-<!-- HEADER BANNER WITH ENHANCED ANIMATION -->
-<p align="center">
-  <a href="https://github.com/rifat-hasan-shakil">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rifat+Hasan+Shakil!;Developer+%7C+Data+Science+Enthusiast;AI+Learner+%7C+Problem+Solver;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <a href="https://github.com/rifat-hasan-shakil">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" />
-  </a>
-</p>
-
-<!-- ABOUT ME SECTION WITH ICONS -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  About Me
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌱_Exploring-Data_Science_&_AI-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎮_Building-Puzzle_Game_in_UE5-7B2CBF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📈_Learning-One_Project_at_a_Time-FF5722?style=for-the-badge" />
-</p>
-
-<!-- ANIMATED WAVE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=120&section=footer&reversal=true" />
-
-<!-- TECH STACK WITH ANIMATED ICONS -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  Tech Stack & Tools
-</h3>
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-<!-- ANIMATED WAVE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,100:FFC107&height=120&section=footer" />
-
-<!-- GITHUB STATS WITH ANIMATIONS -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 
-  GitHub Stats
-</h3>
-
-<!-- STATS CARDS WITH ANIMATIONS -->
-<p align="center">
-  <a href="https://github.com/rifat-hasan-shakil">
-    <img src="https://github-readme-stats.vercel.app/api?username=rifat-hasan-shakil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180" />
-  </a>
-  <a href="https://github.com/rifat-hasan-shakil">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-hasan-shakil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" />
-  </a>
-</p>
-
-<!-- CONTRIBUTION GRAPH -->
-<p align="center">
-  <a href="https://github.com/rifat-hasan-shakil">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifat-hasan-shakil&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%" />
-  </a>
-</p>
-
-<!-- STREAK STATS -->
-<p align="center">
-  <a href="https://github.com/rifat-hasan-shakil">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-hasan-shakil&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9D00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" width="100%" />
-  </a>
-</p>
-
-<!-- WORKFLOW STATS -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="30">
-  Workflow Stats
-</h3>
-
-<p align="center">
-  <a href="https://wakatime.com/@rifat-hasan-shakil">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rifat-hasan-shakil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Wakatime Stats" />
-  </a>
-</p>
-
-<!-- ANIMATED WAVE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=120&section=footer" />
-
-<!-- EXPANDED PROJECTS SECTION WITH ANIMATIONS -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  Featured Projects
-</h3>
-
+<br/>
 <div align="center">
-  <!-- PROJECT 1 -->
-  <a href="https://github.com/rifat-hasan-shakil/puzzle-game-ue">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-hasan-shakil&repo=puzzle-game-ue&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  </a>
+  <img src="./assets/Personal%20Details.png" alt="Personal Details" style="max-width: 100%; border-radius: 15px;" />
+</div>
+
+<!-- Elegant Waving Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi!%20I%20am%20Rifat%20Hasan%20Shakil.%20👋&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Data%20Enthusiast&descAlignY=58&descAlign=62" width="100%" alt="Header Background" />
   
-  <!-- PROJECT 2 -->
-  <a href="https://github.com/rifat-hasan-shakil/data-insight-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-hasan-shakil&repo=data-insight-tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <br/>
+  
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Extracting+Stories+from+Data;Statistics+%26+Predictive+Modeling;Transforming+Data+into+Strategy" alt="Typing SVG Animation" />
   </a>
 </div>
 
-<br>
-
-<!-- PROJECT DETAILS WITH CUSTOM CARDS -->
 <div align="center">
-  <!-- PROJECT 1 DETAILS -->
-  <div style="display: inline-block; width: 45%; margin: 10px; padding: 15px; border-radius: 10px; background: linear-gradient(45deg, #0D1117, #161B22);">
-    <h4>🧩 Puzzle Game UE5</h4>
-    <p>An immersive 3D puzzle game built with Unreal Engine 5 and C++. Features include:</p>
-    <ul align="left">
-      <li>Physics-based puzzle mechanics</li>
-      <li>Advanced lighting and particle effects</li>
-      <li>Procedurally generated levels</li>
-      <li>Custom character controller</li>
-    </ul>
-    <p>
-      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Blueprints-137CBD?style=flat-square&logo=blueprint&logoColor=white" />
-    </p>
-  </div>
-
-  <!-- PROJECT 2 DETAILS -->
-  <div style="display: inline-block; width: 45%; margin: 10px; padding: 15px; border-radius: 10px; background: linear-gradient(45deg, #0D1117, #161B22);">
-    <h4>📊 Data Insight Tool</h4>
-    <p>A comprehensive Python-based data analysis and visualization tool. Features include:</p>
-    <ul align="left">
-      <li>Interactive dashboards with Plotly and Dash</li>
-      <li>Automated data cleaning and preprocessing</li>
-      <li>Statistical analysis and hypothesis testing</li>
-      <li>Machine learning model integration</li>
-    </ul>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-    </p>
-  </div>
-
-  <!-- PROJECT 3 DETAILS -->
-  <div style="display: inline-block; width: 45%; margin: 10px; padding: 15px; border-radius: 10px; background: linear-gradient(45deg, #0D1117, #161B22);">
-    <h4>🤖 AI Image Classifier</h4>
-    <p>A deep learning model for image classification using TensorFlow and Keras. Features include:</p>
-    <ul align="left">
-      <li>Convolutional Neural Network architecture</li>
-      <li>Transfer learning with pre-trained models</li>
-      <li>Data augmentation for improved accuracy</li>
-      <li>Web interface for real-time classification</li>
-    </ul>
-    <p>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </p>
-  </div>
+  <br/>
+  <a href="https://linkedin.com/in/rifat-hasan-shakil"><img src="./assets/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a> &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/rifathasanshakil3301"><img src="./assets/kaggle.svg" alt="Kaggle" width="32" height="32" /></a> &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/rifathasanshakil"><img src="./assets/hackerrank.svg" alt="HackerRank" width="32" height="32" /></a> &nbsp;&nbsp;
+  <a href="mailto:rifathasansakil@gmail.com"><img src="./assets/gmail.svg" alt="Email" width="32" height="32" /></a> &nbsp;&nbsp;
+  <a href="https://t.me/rifathasansakil"><img src="./assets/telegram.svg" alt="Telegram" width="32" height="32" /></a> &nbsp;&nbsp;
+  <a href="https://facebook.com/rifat.hasanshakil"><img src="./assets/facebook.svg" alt="Facebook" width="32" height="32" /></a>
+  <br/><br/>
 </div>
 
-<!-- ANIMATED WAVE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,100:FFC107&height=120&section=footer&reversal=true" />
+<!-- Sleek Animated Glowing Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
-<!-- CONTACT SECTION WITH ANIMATED ICONS -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="30">
-  Connect With Me
-</h3>
+### <img src="./assets/chart.png" width="30" height="30" align="bottom" /> About My Journey
 
-<p align="center">
-  <a href="mailto:rifathasansakil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rifathasansakil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+> *“Data is the new science. Big Data holds the answers.”* 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rifat-hasan-shakil">
-    <img src="https://img.shields.io/badge/LinkedIn-rifat--hasan--shakil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="tel:+8801704777552">
-    <img src="https://img.shields.io/badge/Phone-%2B880%201704%20777552-007ACC?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      I am a dynamically driven <strong>Statistics Honors Student</strong> at <em>Pabna University of Science and Technology (PUST)</em>. My expertise lies at the intersection of statistical mathematics and programmed data analysis. <br><br>
+      As a passionate <strong>Data Enthusiast</strong>, I excel in transforming ambiguous, complex datasets into polished, actionable business strategies. I thrive on diving deep into data ecosystems, extracting impactful metrics, and presenting them through seamless visual storytelling.
+    </td>
+    <td width="35%" align="center">
+      <img src="./assets/programmer.gif" width="220" alt="Animated Programmer" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/rifat-hasan-shakil">
-    <img src="https://img.shields.io/badge/GitHub-rifat--hasan--shakil-181717?style=
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+
+### <img src="./assets/laptop.png" width="30" height="30" align="bottom" /> Technical Arsenal
+
+<br/>
+
+<div align="center">
+  <p><em>Languages & Core Logic</em></p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r&theme=dark" alt="R" title="R" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><em>Data Manipulation & Visualization</em></p>
+  <br/>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="./assets/powerbi.svg" alt="Power BI" title="Power BI" width="46" height="46" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="./assets/excel.png" alt="Excel" title="Microsoft Excel" width="46" height="46" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.ibm.com/spss" target="_blank"><img src="./assets/spss.svg" alt="SPSS" title="IBM SPSS" width="46" height="46" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="./assets/sql.svg" alt="SQL" title="SQL / PostgreSQL" width="46" height="46" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank"><img src="./assets/access.png" alt="MS Access" title="Microsoft Access" width="46" height="46" /></a>
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <p><em>Workflows & IDEs</em></p>
+  <br/>
+  <a href="https://jupyter.org/" target="_blank"><img src="./assets/jupyter.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="46" height="46" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="./assets/vscode.svg" alt="VS Code" title="VS Code" width="46" height="46" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/rifathasanshakil3301" target="_blank"><img src="./assets/kaggle.svg" alt="Kaggle" title="Kaggle Hub" width="46" height="46" /></a>
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+
+### <img src="./assets/bulb.png" width="30" height="30" align="bottom" /> Current Endeavors
+
+| | | |
+|:---:|:---|:---|
+| <img src="./assets/gradcap.png" width="24" height="24" /> | **Studying**  | Full-time <code>B.Sc. Honors in Statistics</code> at PUST |
+| <img src="./assets/rocket.png" width="24" height="24" /> | **Learning**  | Advanced <em>Data Visualization</em> & <em>Predictive Modeling</em> |
+| <img src="./assets/bulb.png" width="24" height="24" /> | **Seeking**   | Collaboration on data science projects and real-world analytical case summaries |
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+
+### 🏆 Profile Architecture
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rifat-hasan-shakil&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifat-hasan-shakil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats Card" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-hasan-shakil&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Card" />
+</div>
+
+<!-- 
+Optional Snake Animation: 
+Uncomment the below section if you set up the Github Action for the snake animation! 
+
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rifat-hasan-shakil/rifat-hasan-shakil/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+</div>
+-->
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+
+### <img src="./assets/handshake.png" width="30" height="30" align="bottom" /> Let's Connect!
+
+<div align="center">
+  <p>I am always open to discussing data analytics, statistical modeling, or exciting tech opportunities.<br/> Feel free to reach out to me below!</p>
+  
+  <br/>
+  <a href="mailto:rifathasansakil@gmail.com"><img src="./assets/gmail.svg" alt="Email" width="35" height="35" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rifat-hasan-shakil"><img src="./assets/linkedin.svg" alt="LinkedIn" width="35" height="35" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/rifathasanshakil3301"><img src="./assets/kaggle.svg" alt="Kaggle" width="35" height="35" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/rifathasanshakil"><img src="./assets/hackerrank.svg" alt="HackerRank" width="35" height="35" /></a>
+  <br/><br/>
+  
+  <i><q>In God we trust, all others must bring data.</q> – W. Edwards Deming</i>
+</div>
+
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Wave Dashboard Banner" />
+</div>
