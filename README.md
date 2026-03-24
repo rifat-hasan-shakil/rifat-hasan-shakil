@@ -84,6 +84,32 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
+### <img src="./assets/rocket.png" width="30" height="30" align="bottom" /> Featured Architecture
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="35%" align="center">
+        <a href="https://github.com/rifat-hasan-shakil/nexus-ai-recommender">
+          <img src="./assets/Screenshot%202026-03-25%20001956.png" alt="Nexus AI UI" width="300" style="border-radius: 8px;"/>
+        </a>
+      </td>
+      <td width="65%" valign="top">
+        <h3><a href="https://github.com/rifat-hasan-shakil/nexus-ai-recommender">Nexus AI Recommendation Engine</a></h3>
+        <p>A production-grade, dual-domain Machine Learning Recommendation System engineered with an asynchronous <strong>FastAPI backend</strong> and a cinematic <strong>Vanilla JS + Tailwind CSS</strong> frontal interface. Leverages advanced <strong>NLP (CountVectorizer)</strong> and <strong>Cosine Similarity</strong> clustering over 5000+ dimensional vectors to provide instant content-based recommendations.</p>
+        <a href="https://github.com/rifat-hasan-shakil/nexus-ai-recommender"><img src="https://img.shields.io/badge/Status-Completed-success.svg?style=flat-square" /></a> &nbsp;
+        <a href="https://github.com/rifat-hasan-shakil/nexus-ai-recommender"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square" /></a> &nbsp;
+        <a href="https://github.com/rifat-hasan-shakil/nexus-ai-recommender"><img src="https://img.shields.io/badge/Scikit--Learn-ML-orange.svg?style=flat-square" /></a>
+        <br/><br/>
+        <a href="https://github.com/rifat-hasan-shakil/nexus-ai-recommender"><b>View Full Architecture & Deployment ➔</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+
 ### <img src="./assets/bulb.png" width="30" height="30" align="bottom" /> Current Endeavors
 
 | | | |
