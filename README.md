@@ -1,7 +1,7 @@
-<br/>
 <div align="center">
   <img src="./assets/Personal%20Details.png" alt="Personal Details" style="max-width: 100%; border-radius: 15px;" />
 </div>
+<br/>
 
 <!-- Elegant Waving Header -->
 <div align="center">
@@ -13,6 +13,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Extracting+Stories+from+Data;Statistics+%26+Predictive+Modeling;Transforming+Data+into+Strategy" alt="Typing SVG Animation" />
   </a>
 </div>
+
+
 
 <div align="center">
   <br/>
@@ -30,7 +32,7 @@
 
 ### <img src="./assets/chart.png" width="30" height="30" align="bottom" /> About My Journey
 
-> _“Data is the new science. Big Data holds the answers.”_
+> *“Data is the new science. Big Data holds the answers.”* 
 
 <table>
   <tr>
@@ -84,11 +86,11 @@
 
 ### <img src="./assets/bulb.png" width="30" height="30" align="bottom" /> Current Endeavors
 
-|                                                           |              |                                                                                 |
-| :-------------------------------------------------------: | :----------- | :------------------------------------------------------------------------------ |
-| <img src="./assets/gradcap.png" width="24" height="24" /> | **Studying** | Full-time <code>B.Sc. Honors in Statistics</code> at PUST                       |
-| <img src="./assets/rocket.png" width="24" height="24" />  | **Learning** | Advanced <em>Data Visualization</em> & <em>Predictive Modeling</em>             |
-|  <img src="./assets/bulb.png" width="24" height="24" />   | **Seeking**  | Collaboration on data science projects and real-world analytical case summaries |
+| | | |
+|:---:|:---|:---|
+| <img src="./assets/gradcap.png" width="24" height="24" /> | **Studying**  | Full-time <code>B.Sc. Honors in Statistics</code> at PUST |
+| <img src="./assets/rocket.png" width="24" height="24" /> | **Learning**  | Advanced <em>Data Visualization</em> & <em>Predictive Modeling</em> |
+| <img src="./assets/bulb.png" width="24" height="24" /> | **Seeking**   | Collaboration on data science projects and real-world analytical case summaries |
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
@@ -109,15 +111,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-hasan-shakil&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Card" />
 </div>
 
-<!--
-Optional Snake Animation:
-Uncomment the below section if you set up the Github Action for the snake animation!
-
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rifat-hasan-shakil/rifat-hasan-shakil/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifat-hasan-shakil/rifat-hasan-shakil/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifat-hasan-shakil/rifat-hasan-shakil/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rifat-hasan-shakil/rifat-hasan-shakil/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
--->
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
