@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/Personal%20Details.png" alt="Personal Details" style="max-width: 100%; border-radius: 15px;" />
 </div>
-<br/>
+
 
 <!-- Elegant Waving Header -->
 <div align="center">
@@ -108,6 +108,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rifat-hasan-shakil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats Card" />
   &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-hasan-shakil&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-hasan-shakil&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Card" />
 </div>
 
@@ -136,6 +142,10 @@
   <br/><br/>
   
   <i><q>In God we trust, all others must bring data.</q> – W. Edwards Deming</i>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rifat-hasan-shakil&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
 </div>
 
 <!-- Footer Banner -->
