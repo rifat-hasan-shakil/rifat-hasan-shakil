@@ -30,7 +30,7 @@
 
 ### <img src="./assets/chart.png" width="30" height="30" align="bottom" /> About My Journey
 
-> *“Data is the new science. Big Data holds the answers.”* 
+> _“Data is the new science. Big Data holds the answers.”_
 
 <table>
   <tr>
@@ -84,11 +84,11 @@
 
 ### <img src="./assets/bulb.png" width="30" height="30" align="bottom" /> Current Endeavors
 
-| | | |
-|:---:|:---|:---|
-| <img src="./assets/gradcap.png" width="24" height="24" /> | **Studying**  | Full-time <code>B.Sc. Honors in Statistics</code> at PUST |
-| <img src="./assets/rocket.png" width="24" height="24" /> | **Learning**  | Advanced <em>Data Visualization</em> & <em>Predictive Modeling</em> |
-| <img src="./assets/bulb.png" width="24" height="24" /> | **Seeking**   | Collaboration on data science projects and real-world analytical case summaries |
+|                                                           |              |                                                                                 |
+| :-------------------------------------------------------: | :----------- | :------------------------------------------------------------------------------ |
+| <img src="./assets/gradcap.png" width="24" height="24" /> | **Studying** | Full-time <code>B.Sc. Honors in Statistics</code> at PUST                       |
+| <img src="./assets/rocket.png" width="24" height="24" />  | **Learning** | Advanced <em>Data Visualization</em> & <em>Predictive Modeling</em>             |
+|  <img src="./assets/bulb.png" width="24" height="24" />   | **Seeking**  | Collaboration on data science projects and real-world analytical case summaries |
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
@@ -96,7 +96,9 @@
 ### 🏆 Profile Architecture
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifat-hasan-shakil&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/rifat-hasan-shakil">
+    <img src="./assets/trophy.svg" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br/>
@@ -107,9 +109,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-hasan-shakil&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Card" />
 </div>
 
-<!-- 
-Optional Snake Animation: 
-Uncomment the below section if you set up the Github Action for the snake animation! 
+<!--
+Optional Snake Animation:
+Uncomment the below section if you set up the Github Action for the snake animation!
 
 <br/>
 <div align="center">
